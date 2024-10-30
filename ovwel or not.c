@@ -12,7 +12,7 @@ void main()
         case 'O':
         case 'U':printf("%c is a vowel",ch);
         break;
-        default:printf("Enter correct vowels");
+        default:printf("%c is a consonant",ch);
         break;
     }
 }
